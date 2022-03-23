@@ -1,0 +1,19 @@
+{
+  "unversionedId": "NL668/NL668-LA Series Hardware Guide_V1.0.8",
+  "id": "NL668/NL668-LA Series Hardware Guide_V1.0.8",
+  "title": "FIBOCOM NL668-LA Series Hardware Guide",
+  "description": "Version 2021-08-30",
+  "source": "@site/docs/NL668/NL668-LA Series Hardware Guide_V1.0.8.md",
+  "sourceDirName": "NL668",
+  "slug": "/NL668/NL668-LA Series Hardware Guide_V1.0.8",
+  "permalink": "/docs/NL668/NL668-LA Series Hardware Guide_V1.0.8",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/NL668/NL668-LA Series Hardware Guide_V1.0.8.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "FIBOCOM_NL668_AT_Commands_User_Manual_HTTP",
+    "permalink": "/docs/NL668/AT Commands HTTP"
+  }
+}

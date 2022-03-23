@@ -1,0 +1,26 @@
+{
+  "unversionedId": "NL668/congratulations",
+  "id": "NL668/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/NL668/congratulations.md",
+  "sourceDirName": "NL668",
+  "slug": "/NL668/congratulations",
+  "permalink": "/docs/NL668/congratulations",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/NL668/congratulations.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "FIBOCOM NL668-LA Series Hardware Guide",
+    "permalink": "/docs/NL668/FIBOCOM NL668-LA Series Hardware Guide_V1.0.8"
+  }
+}

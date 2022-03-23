@@ -1,0 +1,23 @@
+{
+  "unversionedId": "FG150/intro",
+  "id": "FG150/intro",
+  "title": "FG150 document example",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/FG150/intro.md",
+  "sourceDirName": "FG150",
+  "slug": "/FG150/intro",
+  "permalink": "/docs/FG150/intro",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/FG150/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "FIBOCOM NL668 AT Commands User Manual HTTP",
+    "permalink": "/docs/NL668/AT Commands HTTP"
+  }
+}

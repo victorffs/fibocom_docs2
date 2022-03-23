@@ -1,0 +1,26 @@
+{
+  "unversionedId": "doc9",
+  "id": "doc9",
+  "title": "This is Doc 9",
+  "description": "I can write content using GitHub-flavored Markdown syntax.",
+  "source": "@site/docs/doc9.md",
+  "sourceDirName": ".",
+  "slug": "/doc9",
+  "permalink": "/build/docs/doc9",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/doc9.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc9",
+    "title": "This is Doc 9"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/build/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "FG150 document example",
+    "permalink": "/build/docs/FG150/fg_example"
+  }
+}
