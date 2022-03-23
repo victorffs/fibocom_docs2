@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-extras/translate-your-site.md",
   "sourceDirName": "tutorial-extras",
   "slug": "/tutorial-extras/translate-your-site",
-  "permalink": "/build/docs/tutorial-extras/translate-your-site",
+  "permalink": "/fibocom_docs2/build/index.html/docs/tutorial-extras/translate-your-site",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/translate-your-site.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manage Docs Versions",
-    "permalink": "/build/docs/tutorial-extras/manage-docs-versions"
+    "permalink": "/fibocom_docs2/build/index.html/docs/tutorial-extras/manage-docs-versions"
   },
   "next": {
     "title": "This is Doc 9",
-    "permalink": "/build/docs/doc9"
+    "permalink": "/fibocom_docs2/build/index.html/docs/doc9"
   }
 }

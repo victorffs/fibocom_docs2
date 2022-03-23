@@ -6,7 +6,7 @@
   "source": "@site/docs/NL668/AT Commands HTTP.md",
   "sourceDirName": "NL668",
   "slug": "/NL668/AT Commands HTTP",
-  "permalink": "/build/docs/NL668/AT Commands HTTP",
+  "permalink": "/fibocom_docs2/build/index.html/docs/NL668/AT Commands HTTP",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/NL668/AT Commands HTTP.md",
   "tags": [],
   "version": "current",
@@ -14,10 +14,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "FG150 document example",
-    "permalink": "/build/docs/FG150/fg_example"
+    "permalink": "/fibocom_docs2/build/index.html/docs/FG150/fg_example"
   },
   "next": {
     "title": "FIBOCOM NL668-LA Series Hardware Guide",
-    "permalink": "/build/docs/NL668/NL668-LA Series Hardware Guide"
+    "permalink": "/fibocom_docs2/build/index.html/docs/NL668/NL668-LA Series Hardware Guide"
   }
 }

@@ -9,12 +9,12 @@ const config = {
   title: 'Fibocom Docs',
   tagline: 'Perfect Wireless Experience',
   url: 'https://victorffs.github.io/',
-  baseUrl: '/fibocom_docs/',
+  baseUrl: '/fibocom_docs2/build/index.html/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'victorffs', // Usually your GitHub org/user name.
-  projectName: 'fibocom_docs', // Usually your repo name.
+  projectName: 'fibocom_docs2', // Usually your repo name.
 
   presets: [
     [

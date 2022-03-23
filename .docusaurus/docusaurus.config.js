@@ -1,19 +1,19 @@
 export default {
   "title": "Fibocom Docs",
   "tagline": "Perfect Wireless Experience",
-  "url": "https://victorffs.github.io/fibocom_docs",
-  "baseUrl": "/build/",
+  "url": "https://victorffs.github.io/",
+  "baseUrl": "/fibocom_docs2/build/index.html/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "organizationName": "victorffs",
-  "projectName": "fibocom_docs",
+  "projectName": "fibocom_docs2",
   "presets": [
     [
       "classic",
       {
         "docs": {
-          "sidebarPath": "/home/victorffs/Dropbox/Workspace 2022/Fibocom/0011_ReadTheDocs_Docusaurus/fibocom_docs/sidebars.js",
+          "sidebarPath": "/home/victorffs/Dropbox/Workspace 2022/Fibocom/0011_ReadTheDocs_Docusaurus/fibocom_docs2/sidebars.js",
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -21,7 +21,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "/home/victorffs/Dropbox/Workspace 2022/Fibocom/0011_ReadTheDocs_Docusaurus/fibocom_docs/src/css/custom.css"
+          "customCss": "/home/victorffs/Dropbox/Workspace 2022/Fibocom/0011_ReadTheDocs_Docusaurus/fibocom_docs2/src/css/custom.css"
         }
       }
     ]

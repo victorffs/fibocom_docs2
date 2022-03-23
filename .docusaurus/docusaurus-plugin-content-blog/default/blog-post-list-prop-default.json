@@ -3,19 +3,19 @@
   "items": [
     {
       "title": "Welcome",
-      "permalink": "/build/blog/welcome"
+      "permalink": "/fibocom_docs2/build/index.html/blog/welcome"
     },
     {
       "title": "MDX Blog Post",
-      "permalink": "/build/blog/mdx-blog-post"
+      "permalink": "/fibocom_docs2/build/index.html/blog/mdx-blog-post"
     },
     {
       "title": "Long Blog Post",
-      "permalink": "/build/blog/long-blog-post"
+      "permalink": "/fibocom_docs2/build/index.html/blog/long-blog-post"
     },
     {
       "title": "First Blog Post",
-      "permalink": "/build/blog/first-blog-post"
+      "permalink": "/fibocom_docs2/build/index.html/blog/first-blog-post"
     }
   ]
 }

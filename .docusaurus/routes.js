@@ -4,162 +4,162 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/build/blog',
-    component: ComponentCreator('/build/blog','37e'),
+    path: '/fibocom_docs2/build/index.html/blog',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/blog','782'),
     exact: true
   },
   {
-    path: '/build/blog/archive',
-    component: ComponentCreator('/build/blog/archive','b3c'),
+    path: '/fibocom_docs2/build/index.html/blog/archive',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/blog/archive','7c8'),
     exact: true
   },
   {
-    path: '/build/blog/first-blog-post',
-    component: ComponentCreator('/build/blog/first-blog-post','408'),
+    path: '/fibocom_docs2/build/index.html/blog/first-blog-post',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/blog/first-blog-post','22f'),
     exact: true
   },
   {
-    path: '/build/blog/long-blog-post',
-    component: ComponentCreator('/build/blog/long-blog-post','b55'),
+    path: '/fibocom_docs2/build/index.html/blog/long-blog-post',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/blog/long-blog-post','a27'),
     exact: true
   },
   {
-    path: '/build/blog/mdx-blog-post',
-    component: ComponentCreator('/build/blog/mdx-blog-post','de6'),
+    path: '/fibocom_docs2/build/index.html/blog/mdx-blog-post',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/blog/mdx-blog-post','2a0'),
     exact: true
   },
   {
-    path: '/build/blog/tags',
-    component: ComponentCreator('/build/blog/tags','3e3'),
+    path: '/fibocom_docs2/build/index.html/blog/tags',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/blog/tags','e1c'),
     exact: true
   },
   {
-    path: '/build/blog/tags/docusaurus',
-    component: ComponentCreator('/build/blog/tags/docusaurus','ab5'),
+    path: '/fibocom_docs2/build/index.html/blog/tags/docusaurus',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/blog/tags/docusaurus','e37'),
     exact: true
   },
   {
-    path: '/build/blog/tags/facebook',
-    component: ComponentCreator('/build/blog/tags/facebook','b2d'),
+    path: '/fibocom_docs2/build/index.html/blog/tags/facebook',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/blog/tags/facebook','e1d'),
     exact: true
   },
   {
-    path: '/build/blog/tags/hello',
-    component: ComponentCreator('/build/blog/tags/hello','912'),
+    path: '/fibocom_docs2/build/index.html/blog/tags/hello',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/blog/tags/hello','416'),
     exact: true
   },
   {
-    path: '/build/blog/tags/hola',
-    component: ComponentCreator('/build/blog/tags/hola','a4c'),
+    path: '/fibocom_docs2/build/index.html/blog/tags/hola',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/blog/tags/hola','1de'),
     exact: true
   },
   {
-    path: '/build/blog/welcome',
-    component: ComponentCreator('/build/blog/welcome','674'),
+    path: '/fibocom_docs2/build/index.html/blog/welcome',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/blog/welcome','4db'),
     exact: true
   },
   {
-    path: '/build/helloMarkdown',
-    component: ComponentCreator('/build/helloMarkdown','64e'),
+    path: '/fibocom_docs2/build/index.html/helloMarkdown',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/helloMarkdown','34a'),
     exact: true
   },
   {
-    path: '/build/helloReact',
-    component: ComponentCreator('/build/helloReact','058'),
+    path: '/fibocom_docs2/build/index.html/helloReact',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/helloReact','e50'),
     exact: true
   },
   {
-    path: '/build/markdown-page',
-    component: ComponentCreator('/build/markdown-page','d23'),
+    path: '/fibocom_docs2/build/index.html/markdown-page',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/markdown-page','acf'),
     exact: true
   },
   {
-    path: '/build/docs',
-    component: ComponentCreator('/build/docs','65e'),
+    path: '/fibocom_docs2/build/index.html/docs',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/docs','e1d'),
     routes: [
       {
-        path: '/build/docs/doc9',
-        component: ComponentCreator('/build/docs/doc9','f6e'),
+        path: '/fibocom_docs2/build/index.html/docs/doc9',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/doc9','626'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/FG150/fg_example',
-        component: ComponentCreator('/build/docs/FG150/fg_example','603'),
+        path: '/fibocom_docs2/build/index.html/docs/FG150/fg_example',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/FG150/fg_example','915'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/intro',
-        component: ComponentCreator('/build/docs/intro','cd9'),
+        path: '/fibocom_docs2/build/index.html/docs/intro',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/intro','036'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/NL668/AT Commands HTTP',
-        component: ComponentCreator('/build/docs/NL668/AT Commands HTTP','302'),
+        path: '/fibocom_docs2/build/index.html/docs/NL668/AT Commands HTTP',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/NL668/AT Commands HTTP','5b4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/NL668/NL668-LA Series Hardware Guide',
-        component: ComponentCreator('/build/docs/NL668/NL668-LA Series Hardware Guide','c8c'),
+        path: '/fibocom_docs2/build/index.html/docs/NL668/NL668-LA Series Hardware Guide',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/NL668/NL668-LA Series Hardware Guide','9d6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/tutorial-basics/congratulations',
-        component: ComponentCreator('/build/docs/tutorial-basics/congratulations','deb'),
+        path: '/fibocom_docs2/build/index.html/docs/tutorial-basics/congratulations',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/tutorial-basics/congratulations','c24'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/tutorial-basics/create-a-blog-post',
-        component: ComponentCreator('/build/docs/tutorial-basics/create-a-blog-post','3dd'),
+        path: '/fibocom_docs2/build/index.html/docs/tutorial-basics/create-a-blog-post',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/tutorial-basics/create-a-blog-post','a0e'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/tutorial-basics/create-a-document',
-        component: ComponentCreator('/build/docs/tutorial-basics/create-a-document','cd9'),
+        path: '/fibocom_docs2/build/index.html/docs/tutorial-basics/create-a-document',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/tutorial-basics/create-a-document','9e0'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/tutorial-basics/create-a-page',
-        component: ComponentCreator('/build/docs/tutorial-basics/create-a-page','907'),
+        path: '/fibocom_docs2/build/index.html/docs/tutorial-basics/create-a-page',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/tutorial-basics/create-a-page','1d4'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/tutorial-basics/deploy-your-site',
-        component: ComponentCreator('/build/docs/tutorial-basics/deploy-your-site','77d'),
+        path: '/fibocom_docs2/build/index.html/docs/tutorial-basics/deploy-your-site',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/tutorial-basics/deploy-your-site','5a6'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/tutorial-basics/markdown-features',
-        component: ComponentCreator('/build/docs/tutorial-basics/markdown-features','a9c'),
+        path: '/fibocom_docs2/build/index.html/docs/tutorial-basics/markdown-features',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/tutorial-basics/markdown-features','7bd'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/tutorial-extras/manage-docs-versions',
-        component: ComponentCreator('/build/docs/tutorial-extras/manage-docs-versions','4a0'),
+        path: '/fibocom_docs2/build/index.html/docs/tutorial-extras/manage-docs-versions',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/tutorial-extras/manage-docs-versions','fbe'),
         exact: true,
         'sidebar': "tutorialSidebar"
       },
       {
-        path: '/build/docs/tutorial-extras/translate-your-site',
-        component: ComponentCreator('/build/docs/tutorial-extras/translate-your-site','63d'),
+        path: '/fibocom_docs2/build/index.html/docs/tutorial-extras/translate-your-site',
+        component: ComponentCreator('/fibocom_docs2/build/index.html/docs/tutorial-extras/translate-your-site','bde'),
         exact: true,
         'sidebar': "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/build/',
-    component: ComponentCreator('/build/','aa2'),
+    path: '/fibocom_docs2/build/index.html/',
+    component: ComponentCreator('/fibocom_docs2/build/index.html/','ac7'),
     exact: true
   },
   {

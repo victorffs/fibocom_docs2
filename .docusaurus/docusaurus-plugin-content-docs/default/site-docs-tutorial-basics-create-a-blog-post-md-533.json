@@ -6,7 +6,7 @@
   "source": "@site/docs/tutorial-basics/create-a-blog-post.md",
   "sourceDirName": "tutorial-basics",
   "slug": "/tutorial-basics/create-a-blog-post",
-  "permalink": "/build/docs/tutorial-basics/create-a-blog-post",
+  "permalink": "/fibocom_docs2/build/index.html/docs/tutorial-basics/create-a-blog-post",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basics/create-a-blog-post.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Create a Document",
-    "permalink": "/build/docs/tutorial-basics/create-a-document"
+    "permalink": "/fibocom_docs2/build/index.html/docs/tutorial-basics/create-a-document"
   },
   "next": {
     "title": "Markdown Features",
-    "permalink": "/build/docs/tutorial-basics/markdown-features"
+    "permalink": "/fibocom_docs2/build/index.html/docs/tutorial-basics/markdown-features"
   }
 }

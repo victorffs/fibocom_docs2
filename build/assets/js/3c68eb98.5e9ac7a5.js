@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[99],{640:function(s){s.exports=JSON.parse('{"allTagsPath":"/fibocom_docs2/build/index.html/blog/tags","slug":"/fibocom_docs2/build/index.html/blog/tags/docusaurus","name":"docusaurus","count":4,"permalink":"/fibocom_docs2/build/index.html/blog/tags/docusaurus"}')}}]);

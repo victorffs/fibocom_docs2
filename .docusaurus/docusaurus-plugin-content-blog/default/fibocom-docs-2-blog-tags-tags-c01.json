@@ -1,0 +1,30 @@
+{
+  "/fibocom_docs2/blog/tags/facebook": {
+    "allTagsPath": "/fibocom_docs2/blog/tags",
+    "slug": "/fibocom_docs2/blog/tags/facebook",
+    "name": "facebook",
+    "count": 1,
+    "permalink": "/fibocom_docs2/blog/tags/facebook"
+  },
+  "/fibocom_docs2/blog/tags/hello": {
+    "allTagsPath": "/fibocom_docs2/blog/tags",
+    "slug": "/fibocom_docs2/blog/tags/hello",
+    "name": "hello",
+    "count": 2,
+    "permalink": "/fibocom_docs2/blog/tags/hello"
+  },
+  "/fibocom_docs2/blog/tags/docusaurus": {
+    "allTagsPath": "/fibocom_docs2/blog/tags",
+    "slug": "/fibocom_docs2/blog/tags/docusaurus",
+    "name": "docusaurus",
+    "count": 4,
+    "permalink": "/fibocom_docs2/blog/tags/docusaurus"
+  },
+  "/fibocom_docs2/blog/tags/hola": {
+    "allTagsPath": "/fibocom_docs2/blog/tags",
+    "slug": "/fibocom_docs2/blog/tags/hola",
+    "name": "hola",
+    "count": 1,
+    "permalink": "/fibocom_docs2/blog/tags/hola"
+  }
+}
